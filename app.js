@@ -7,6 +7,6 @@ const newItems = _.flattenDeep(items) // flattenDeep is a method in lodash modul
 console.log(newItems)
 
 // git commands after creating your repo for pushing them into github
-// git remote add origin https://github.com/Khwlaaltmwry2002/temp-node2.git
-// git branch -M main
-// git push -u origin main
+git remote add origin https://github.com/Khwlaaltmwry2002/temp-node2.git
+git branch -M main
+git push -u origin main
